@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## 💫 About Me
+🚀 Passionate about crafting elegant solutions to complex problems
+🔭 Building my digital presence at Portfolio
+🌱 Currently mastering Data Structures & Algorithms and exploring Spring 
+💡 Always excited to learn new technologies and frameworks
+👯 Looking to collaborate on innovative Full Stack Projects
+🎯 Goal: Contributing to projects that make a difference
+💬 Let's discuss Tech, Innovation, and the Future of Development
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aswin-vadivel/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@vaswin1220) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaswin1220@gmail.com) 
