@@ -38,7 +38,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinvadivel&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # 🧠 LeetCode Stats:
-[![LeetCode Stats](https://leetcard.jacoblin.cool/aswinvadivel?theme=light&font=Karma&ext=heatmap)](https://leetcode.com/aswinvadivel/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/aswinvadivel?theme=light&font=Karma&ext=heatmap)](https://leetcode.com/aswinv__/)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aswinvadivel&limit=5&theme=dark&combine_all_yearly_contributions=true)
